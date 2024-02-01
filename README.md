@@ -10,7 +10,7 @@
 
 ### Make it efficient
 
-    1. add memo object
+    1. Add memo object
         - Needs keys which represents arguements to our function.
         - And values of that object represents values for those function calls
         - Like a Map
